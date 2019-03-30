@@ -9,7 +9,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/gobwas/ws"
+	"github.com/tsingson/ws"
 )
 
 // DebugDialer is a wrapper around ws.Dialer. It tracks i/o of WebSocket

@@ -14,8 +14,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/gobwas/ws"
-	"github.com/gobwas/ws/wsutil"
+	"github.com/tsingson/ws"
+	"github.com/tsingson/ws/wsutil"
 )
 
 const dir = "./example/autobahn"
